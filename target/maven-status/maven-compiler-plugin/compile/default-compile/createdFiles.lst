@@ -1,0 +1,5 @@
+com\mpf\form\AccountForm.class
+com\mpf\boot\MPFDSInitializer.class
+com\mpf\config\WebConfig.class
+com\mpf\form\PersonalInfo.class
+com\mpf\form\AddressInfo.class
